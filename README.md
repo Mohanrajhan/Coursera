@@ -1,6 +1,6 @@
 Overview - Identifying Courses - Coursera
 ----------------------------------
-This project aims to automate the Featured News using Selenium WebDriver.                                        
+This project aims to automate the Coursera website using Selenium WebDriver.                                        
 It uses coursera Webpage, extracting courses and its details and filling the enquiry form.
 
 ----------------------------------
